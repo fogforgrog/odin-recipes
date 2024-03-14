@@ -1,0 +1,40 @@
+ h1{
+    text-align: center;
+ }
+
+ img{
+    width: 300;
+    height: auto;
+ }
+
+  #desc{
+    font-family: 'Courier New', Courier, monospace;
+    color: lightslategray;
+    font-size: 18px;
+  }
+
+  #step{
+    font-family: 'Courier New', Courier, monospace;
+    color: lightseagreen;
+    font-size: 18px;
+  }
+
+  #rescip{
+    font-family: 'Courier New', Courier, monospace;
+    color: lightskyblue;
+    font-size: 16px;
+  }
+
+  .lasagna{
+    text-align: right;
+    font-style: none;
+    text-decoration-line: none;
+  }
+    
+   .text{
+        font-size: 14px;
+    }
+
+    .podtext{
+        font-size: 14px;
+    }
