@@ -3,8 +3,10 @@
  }
 
  img{
-    width: 300;
-    height: auto;
+    width: 250px;
+    height: 300px;
+    margin:left;
+    padding:auto;
  }
 
   #desc{
@@ -17,24 +19,33 @@
     font-family: 'Courier New', Courier, monospace;
     color: lightseagreen;
     font-size: 18px;
+    margin-bottom: 50px;
   }
 
   #rescip{
     font-family: 'Courier New', Courier, monospace;
     color: lightskyblue;
     font-size: 16px;
+    text-align: center;
+    padding: 35px;
   }
 
   .lasagna{
     text-align: right;
     font-style: none;
     text-decoration-line: none;
+    padding: -8em;
+    margin-right: 350px;
   }
     
    .text{
         font-size: 14px;
+        margin-bottom: 10px;
+        margin-top: 5px;
     }
 
     .podtext{
         font-size: 14px;
+        margin-bottom: 10px;
+        margin-top: 5px; 
     }
